@@ -1,0 +1,28 @@
+.search {
+    display: block;
+    color: lightblue;
+    border-color: lightblue;
+    background-color: aliceblue;
+    border-radius: 20px;
+    width: 70px;
+    height: 30px;
+    margin-bottom: 10px;
+}
+
+.plus {
+height: 35px;
+width: 35px;
+border-radius: 35px;
+color: white;
+background-color: rgb(39, 222, 222);
+border-color: rgb(39, 222, 222);
+margin: 10px;
+}
+
+.create {
+    color: antiquewhite;
+    background-color: rgb(68, 68, 255);
+    border-style: solid;
+    border-color: black;
+    box-shadow: 10px 1px 14px 7px rgba(0, 0, 0, 0.20);
+}
