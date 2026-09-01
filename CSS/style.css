@@ -1,0 +1,24 @@
+h1 {
+    color:aquamarine;
+    background-color: black;
+}
+
+span {
+    color:aliceblue;
+}
+
+p {
+    color: white;
+    background-color: purple;
+    font-size: 20px;
+    text-align: center;
+}
+.bg-lightblue {
+    background-color: lightblue;
+    text-align: right;
+}
+.label {
+    text-decoration: underline;
+    font-size: 15px;
+   
+}
