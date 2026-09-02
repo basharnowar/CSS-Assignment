@@ -1,0 +1,12 @@
+(Area=LengthxWidth)
+
+Start
+
+Input length
+Input width
+
+Set area to length x witd 
+
+Output area
+
+End

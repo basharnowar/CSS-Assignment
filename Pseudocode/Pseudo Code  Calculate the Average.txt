@@ -1,0 +1,17 @@
+10, 20, 30
+
+START
+input numbers
+input number1 10
+input number2 20
+input number3 30
+
+calculate the average three numbers
+
+10+20+30%3 = 20
+
+Display avaerage is 20
+
+END
+
+

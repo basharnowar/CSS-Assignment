@@ -1,0 +1,17 @@
+Start
+
+input n
+set f - 1
+set i - 1
+
+While i < n
+
+set i + 1
+set f x 1
+
+End While
+
+output f 
+
+End
+

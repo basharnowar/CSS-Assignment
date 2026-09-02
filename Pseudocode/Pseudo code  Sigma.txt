@@ -1,0 +1,8 @@
+Start
+
+input n 
+for i equals 1 to N             1+2+3+4 , depend on the number of value of N
+   sum=sum+i 
+end for
+return sum
+End
